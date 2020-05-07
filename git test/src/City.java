@@ -9,7 +9,8 @@
 public class City {
     private int centerX;
     private int centerY;
-    //add a new 娉ㄩ噴in here ？？
+
+    //什么鬼乱码
 
     public City(int centerX, int centerY) {
         this.centerX = centerX;
