@@ -1,15 +1,15 @@
 /**
- * 鍩庡競鎻忚堪瀵硅薄
+ * 閸╁骸绔堕幓蹇氬牚鐎电钖�
  *
  * @ClassName: City
- * @Description: 鍩庡競鎻忚堪瀵硅薄
+ * @Description: 閸╁骸绔堕幓蹇氬牚鐎电钖�
  * @author: Bruce Young
- * @date: 2020骞�02鏈�02鏃� 17:48
+ * @date: 2020楠烇拷02閺堬拷02閺冿拷 17:48
  */
 public class City {
     private int centerX;
     private int centerY;
-    //add a new 注释in here
+    //add a new 娉ㄩ噴in here ？？
 
     public City(int centerX, int centerY) {
         this.centerX = centerX;
