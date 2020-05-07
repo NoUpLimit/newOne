@@ -1,14 +1,15 @@
 /**
- * 城市描述对象
+ * 鍩庡競鎻忚堪瀵硅薄
  *
  * @ClassName: City
- * @Description: 城市描述对象
+ * @Description: 鍩庡競鎻忚堪瀵硅薄
  * @author: Bruce Young
- * @date: 2020年02月02日 17:48
+ * @date: 2020骞�02鏈�02鏃� 17:48
  */
 public class City {
     private int centerX;
     private int centerY;
+    //add a new 注释in here
 
     public City(int centerX, int centerY) {
         this.centerX = centerX;
