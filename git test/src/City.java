@@ -14,6 +14,8 @@ public class City {
     //我再提交一次？？
     //again
 
+    //我好像懂了
+    //新分支提交我来了
     public City(int centerX, int centerY) {
         this.centerX = centerX;
         this.centerY = centerY;
