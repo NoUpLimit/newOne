@@ -18,6 +18,7 @@ public class City {
     //牛逼 我来搞破坏了,强势霸占一波
     //然后后面就不用强制推了
     //测试推送到分支+++++++++++++
+    //刚才失败了，再来一次
     
 
     public City(int centerX, int centerY) {
