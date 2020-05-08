@@ -15,6 +15,8 @@ public class City {
     //again
     //提交到这是啥的分支
     //wo hui测试pull
+    
+    //项目2组，野开发完毕了
 
     public City(int centerX, int centerY) {
         this.centerX = centerX;
