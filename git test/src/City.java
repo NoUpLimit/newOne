@@ -16,6 +16,7 @@ public class City {
     ///我要提交到分支1----
     //这次我会修改stitch to 
     //牛逼 我来搞破坏了,强势霸占一波
+    //然后后面就不用强制推了
 
     public City(int centerX, int centerY) {
         this.centerX = centerX;
