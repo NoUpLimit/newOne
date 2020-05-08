@@ -24,6 +24,7 @@ public class City {
 
     //我是小Bwo进行了开
     //这样可以吗
+    //强行加息
 
 
     public City(int centerX, int centerY) {
