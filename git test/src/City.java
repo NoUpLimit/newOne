@@ -8,7 +8,7 @@
  */
 public class City {
     private int centerX;
-    private int centerY;
+    //删掉一行搞事情
 
     //什么鬼乱码
     //我再提交一次？？
