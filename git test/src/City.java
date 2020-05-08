@@ -25,6 +25,7 @@ public class City {
     //我是小Bwo进行了开
     //这样可以吗
 
+    //那边要加息了
 
     public City(int centerX, int centerY) {
         this.centerX = centerX;
