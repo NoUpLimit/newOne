@@ -19,7 +19,12 @@ public class City {
     //然后后面就不用强制推了
     //我加了点傻逼东西
     
+
     //再作死来电傻逼东西
+
+    //我是小Bwo进行了开
+    //这样可以吗
+
 
     public City(int centerX, int centerY) {
         this.centerX = centerX;
