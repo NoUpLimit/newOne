@@ -26,6 +26,7 @@ public class City {
     //这样可以吗
     //强行加息
 
+    //那边要加息了
 
     public City(int centerX, int centerY) {
         this.centerX = centerX;
