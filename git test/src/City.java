@@ -28,6 +28,13 @@ public class City {
 
     //那边要加息了
 
+    //我好像懂了
+    //新分支提交我来了
+    
+    
+    
+    //这是我最后一次处理这个分支，分支工作完成准备和bing
+    
     public City(int centerX, int centerY) {
         this.centerX = centerX;
         this.centerY = centerY;
